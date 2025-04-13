@@ -81,9 +81,9 @@ header("Location: mypage.php");
 
 > 🖼️ Basic responsive design with Google Fonts and styled form
 
-![login1](screenshot_login.png)  
-![register](screenshot_register.png)  
-![mypage](screenshot_mypage.png)
+![login1](https://github.com/user-attachments/assets/d1810412-630d-4a68-a490-7b8c8debee52)  
+![register](https://github.com/user-attachments/assets/6131d72c-7587-4f2a-b108-99d3ff7b95aa)  
+![mypage](https://github.com/user-attachments/assets/cd66a472-0268-4a0b-b6db-0e5c5bc91a0f)
 
 ---
 
